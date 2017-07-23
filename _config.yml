@@ -17,7 +17,7 @@ title: Mathematics Forever
 email: lazovstef@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my personal blog where I will write about stuff related to Mathematics and Computer Science. Currently, I am
-  interested in Deep Learning, so most of my posts will be related to this.
+  interested in Deep Learning, so most of my posts will be related to this. Enjoy the content and feel free to contact me if you need any additional info.
 baseurl: #"/blog" # the subpath of your site, e.g. /blog
 url: "http://StefanL19.github.io" # the base hostname & protocol for your site
 github_username:    StefanL19
